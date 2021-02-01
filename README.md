@@ -2,7 +2,7 @@
 
 Live Site deployed on Heroku - [Live Site](https://novid-client.herokuapp.com/) 
 
-| This product was developed by team: [EinarTho](https://github.com/EinarTho), [Tobbenda](https://github.com/tobbenda) and [me](https://github.com/Ryjekk). <br/>
+| This product was developed by team: [EinarTho](https://github.com/EinarTho), [Tobbenda](https://github.com/tobbenda) and [Ryjekk](https://github.com/Ryjekk). <br/>
 | This project was made and deveoped as a final MVP product during two final weeks at Salt. 
 
 ![NovidApp](/NovidScreen.jpg)
